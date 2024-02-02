@@ -44,7 +44,7 @@ h2, p, h6{
 
 .containerOne{
     width: 200px;
-    height: 100px;
+    height: fit-content;
     padding: 20px;
     background-color: #0f0f0f;
     border-radius: 55px;
@@ -53,6 +53,13 @@ h2, p, h6{
     justify-content: center;
     align-items: center;
     z-index: 1;
+    transition: all 1s ease-in-out;
+}
+
+.containerOne:hover{
+    box-shadow: 0 0 20px 0px black;
+    transition: all 1s ease-in-out;
+    background-color: #1d1d1f; /* Add the desired background color */
 }
 
 .containerOne button{
