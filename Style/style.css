@@ -163,13 +163,14 @@ img{
     }
 
     .neonLayts{
-        transition: all 5s ease-in-out;
+        transition: all 1s ease-in-out;
     }
     
 
     .containerAll{
         height: 600px;
         flex-basis: 80%;
+        margin: 10px;
     }
 
     .containerOne{
