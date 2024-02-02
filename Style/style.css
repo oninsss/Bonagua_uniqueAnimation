@@ -159,7 +159,7 @@ img{
         flex-direction: column;
         justify-content: center;
         align-items: center;
-
+        height: 100%;
     }
 
     .neonLayts{
@@ -174,7 +174,7 @@ img{
 
     .containerOne{
         width: 200px;
-        height: 80px;
+        height: 600px;
         font-size: small;
     }
 
