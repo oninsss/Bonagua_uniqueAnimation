@@ -168,14 +168,14 @@ img{
     
 
     .containerAll{
-        height: 600px;
+        height: 200px;
         flex-basis: 80%;
         margin: 10px;
     }
 
     .containerOne{
         width: 200px;
-        height: 600px;
+        height: 200px;
         font-size: small;
     }
 
